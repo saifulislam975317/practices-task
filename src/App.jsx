@@ -1,3 +1,4 @@
+import Contact from "./components/Contact";
 import About from "./components/about/About";
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
         corrupti, adipisci, est sint nulla magnam excepturi nesciunt ab eos
         alias quia dolor reiciendis, obcaecati debitis quasi.
       </p>
+      <Contact></Contact>
     </>
   );
 }
